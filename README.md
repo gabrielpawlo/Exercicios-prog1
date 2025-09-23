@@ -1,1 +1,21 @@
-<h1 align="center"> Exercicios da disciplina de Linguagem de Programacao 1 </h1>
+# All programming language exercises 1
+
+---
+
+## 📋 Features
+
+---
+
+## 🛠 Discipline
+
+---
+
+## 🚀 Running locally
+
+---
+
+## ℹ️ Author
+
+**Gabriel Pawlowski** — Backend Developer
+
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/ggpawlowski/)  
