@@ -1,4 +1,5 @@
 # All programming language exercises 1
+Exercise list done in the Programming Language 1 course, all the code using C with the Visual Studio Code IDE. Aimed at improving programming logic and algorithms.
 
 ---
 
