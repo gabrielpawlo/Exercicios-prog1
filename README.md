@@ -25,6 +25,8 @@ The Programming Language course in the Information Systems program at UFOP cover
 
 ## 🚀 Running locally
 
+You can download exercicio.c and run it in any IDE that is set up for C
+
 ---
 
 ## ℹ️ Author
