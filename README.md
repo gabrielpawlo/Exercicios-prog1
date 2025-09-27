@@ -19,7 +19,8 @@ Exercise list done in the Programming Language 1 course, all the code using C wi
 
 ## 🛠 Discipline
 
-Course subject of Information Systems at UFOP, focused on the fundamentals of structured programming. It provides the essential foundation for logical development and computational problem-solving, preparing the student for more advanced courses in the field.  
+The Programming Language course in the Information Systems program at UFOP covers the fundamentals of structured programming, providing the necessary foundation for logical development and the resolution of computational problems, as well as preparing the student for more advanced courses in the field.
+
 ---
 
 ## 🚀 Running locally
