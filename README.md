@@ -4,6 +4,16 @@
 
 ## 📋 Features
 
+ - Exercises list of discipline language programing 1
+   About:
+ - Programation logic
+ - Notions of architecture
+ - Types and conditionals (if-else)
+ - Repetition commands (while - for - switch)
+ - Functions
+ - Array and Matrix
+ - Ponters and manipulation cache memory
+
 ---
 
 ## 🛠 Discipline
