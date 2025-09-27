@@ -18,7 +18,8 @@ Exercise list done in the Programming Language 1 course, all the code using C wi
 ---
 
 ## 🛠 Discipline
-
+Disciplina do curso de **Sistemas de Informação** na **UFOP**, focada nos fundamentos da programação estruturada.  
+Fornece a base essencial para o desenvolvimento lógico e a resolução de problemas computacionais, preparando o estudante para disciplinas mais avançadas da área.  
 ---
 
 ## 🚀 Running locally
